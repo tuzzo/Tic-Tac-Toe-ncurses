@@ -1,0 +1,5 @@
+Tux	15	
+Goobey	12
+Dolan	8
+Linus	5
+
